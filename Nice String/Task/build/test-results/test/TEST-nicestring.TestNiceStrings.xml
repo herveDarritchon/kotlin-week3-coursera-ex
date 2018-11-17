@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nicestring.TestNiceStrings" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-11-17T11:05:47" hostname="macbookpro.herve-darritchon.fr" time="0.028">
+  <properties/>
+  <testcase name="testExample1" classname="nicestring.TestNiceStrings" time="0.026"/>
+  <testcase name="testExample2" classname="nicestring.TestNiceStrings" time="0.0"/>
+  <testcase name="testExample3" classname="nicestring.TestNiceStrings" time="0.0"/>
+  <testcase name="testExample4" classname="nicestring.TestNiceStrings" time="0.001"/>
+  <testcase name="testExample5" classname="nicestring.TestNiceStrings" time="0.0"/>
+  <testcase name="testExample6" classname="nicestring.TestNiceStrings" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

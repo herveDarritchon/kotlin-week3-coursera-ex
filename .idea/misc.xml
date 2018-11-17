@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerJsonPluginSettings">
+    <unboundedVersionInspectionSettings>
+      <excludedPackages />
+    </unboundedVersionInspectionSettings>
+    <customRepositories />
+    <composerUpdateOptions />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Documentation/Devoxx2015/devoxxfr2015/build" value="1428476892000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Formations/Coursera/Principles of Reactive Programming/Week1/Assignment/quickcheck" value="1429107702000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Formations/Coursera/Principles of Reactive Programming/Week3/Exercises/Solution/CourseraCodeSamplesReactiveProgramming" value="1430935802000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Formations/LightBend/Fast Track Akka Java/solutions/021_Fsm" value="1458141926000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Formations/LightBend/Fast Track Akka Scala/solutions/011_Faulty_guest" value="1456341456000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Formations/LightBend/Fast Track Akka Scala/solutions/013_Faulty_waiter" value="1456341456000" />
+        <entry key="$PROJECT_DIR$/../../../Documentation/Scala/Scala.js/workbench-example-app" value="2899152248000" />
+        <entry key="$PROJECT_DIR$/../../Conference/DevoxxFr2016/Hand'sOnKafka/hands_on_kafka" value="1461091798000" />
+        <entry key="$PROJECT_DIR$/../../Devoxx2015/Spark-HandOnLab/build" value="1428482410000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/FunctionalProgramming/assignments/week4-patmat" value="1448201809000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/FunctionalProgrammingAssignment/week1-recfun" value="1442485054000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/FunctionalProgrammingAssignment/week1-recfun - copie" value="1442485054000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/FunctionalProgrammingAssignment/week3-objsets" value="1443193012000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Koans/dmarsh-scalakoansexercises-ebbe18119d70" value="1447752907000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Scala/Fast Track Akka/fast-track-akka-scala" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../Formations/Scala/Xebia/scalatrain" value="1456346096000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/BerlinClock/scala-berlin-clock-kata" value="1432320074000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/FizzBuzz/fizz-buzz-scala-kata" value="1431957914000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/FizzBuzz/minimal-scala" value="1432123234000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/FizzBuzz/play-scala-seed" value="1432067449000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/FizzBuzz/scala-fizz-buzz-kata" value="1432274274000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/PrimeFactors/scala-prime-factors-kata" value="1433746079000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/scala-seed/scala-kata-seed" value="1432152621000" />
+        <entry key="$PROJECT_DIR$/../../Kata/Scala/test-play-for-seed" value="1431762027000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Microservices/Lagom/lagom-java-chirper" value="1487321548000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Fork/spectre-engine" value="1473082007000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Lightbend/activator-akka-java-spring" value="1459757472000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Lightbend/akka-http-rest" value="1462881476000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Lightbend/akka-java-spring" value="1458557538000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Lightbend/hello-akka" value="1462352858000" />
+        <entry key="$PROJECT_DIR$/../../Orange/Spectre/Lightbend/hello-slick" value="1462885116000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Dojo/xtreme-dojo-server" value="1458979900000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Ecolobambins/AfterSchoolCare/play-reactivemongo-polymer" value="1428256095000" />
+        <entry key="$PROJECT_DIR$/../../Perso/PlayerCharacterPortFolio/Reactive/play-scala" value="1427643988000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Scala/Akka/Akka-Router-Example" value="1450611138000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Scala/PlayFramework/janus-toolbox" value="1449501931000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Scala/PlayFramework/swapi-offliner" value="1450512911000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Scala/StarWars-PortFolio-App/swapi-offliner" value="1450902423000" />
+        <entry key="$PROJECT_DIR$/../../Perso/Tutorials/PlayFramework/PlayScalaBook/Chapter1/products" value="1426937652000" />
+        <entry key="$PROJECT_DIR$/../../Scala/Akka/SupervisionTutorial" value="1472714059000" />
+        <entry key="$PROJECT_DIR$/../../Scala/Psug/TDD/tdd-handson" value="1449598227000" />
+        <entry key="$PROJECT_DIR$/../../Scala/rpn" value="1449847278000" />
+        <entry key="$PROJECT_DIR$/../../Scala/testadm-hd" value="1450792128000" />
+        <entry key="$PROJECT_DIR$/../../Test/allure-scalatest-example" value="1453631257000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Formations/Coursera/Session-T1-2018/week6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Kata/Kotlin/Templates/gradle-kotlin.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Perso/PlayerCharacterPortFolio/numenor-great-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Perso/PlayerCharacterPortFolio/user-store-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/ScalaJs/slimetrail.scalajs" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+</project>
