@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4d69db1-a50a-451b-a9c9-d29cefe8ce8e" name="Default Changelist" comment="" />
+    <list default="true" id="b4d69db1-a50a-451b-a9c9-d29cefe8ce8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Nice String/Task/.gradle/" />
@@ -41,35 +54,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="4" />
+          <entry key="kt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="4" />
+          <entry key="Kotlin" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="820" />
+          <entry key="kt" value="4008" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="820" />
+          <entry key="Kotlin" value="4008" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.453505">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Nice String/Task/src/nicestring/NiceString.kt">
+            <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt">
               <provider selected="true" editor-type-id="StudyEditor">
-                <state relative-caret-position="360">
-                  <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+                <state relative-caret-position="1307">
+                  <caret line="95" selection-start-line="95" selection-end-line="95" />
                 </state>
               </provider>
             </entry>
@@ -79,10 +92,28 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Nice String/Task/test/TestNiceStrings.kt">
+            <entry file="file://$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt">
               <provider selected="true" editor-type-id="StudyEditor">
-                <state relative-caret-position="449">
-                  <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+                <state relative-caret-position="2415">
+                  <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Taxi Park/Task/test/TaxiParkTestUtil.kt">
+              <provider selected="true" editor-type-id="StudyEditor">
+                <state relative-caret-position="300">
+                  <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt">
+              <provider selected="true" editor-type-id="StudyEditor">
+                <state relative-caret-position="540">
+                  <caret line="23" selection-start-line="23" selection-end-line="23" />
                 </state>
               </provider>
             </entry>
@@ -90,6 +121,9 @@
         </leaf>
       </split-second>
     </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1147,6 +1181,9 @@
       <list>
         <option value="$PROJECT_DIR$/Nice String/Task/test/TestNiceStrings.kt" />
         <option value="$PROJECT_DIR$/Nice String/Task/src/nicestring/NiceString.kt" />
+        <option value="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt" />
+        <option value="$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt" />
+        <option value="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" />
       </list>
     </option>
   </component>
@@ -1268,6 +1305,39 @@
               <item name="Task" type="4928525d:TaskNode" />
               <item name="test" type="61faebc3:DirectoryNode" />
             </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_3" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 3" type="ed842865:CourseNode" />
+              <item name="Taxi Park" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_3" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 3" type="ed842865:CourseNode" />
+              <item name="Taxi Park" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_3" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 3" type="ed842865:CourseNode" />
+              <item name="Taxi Park" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_3" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 3" type="ed842865:CourseNode" />
+              <item name="Taxi Park" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="taxipark" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_3" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 3" type="ed842865:CourseNode" />
+              <item name="Taxi Park" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1284,6 +1354,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
@@ -1308,7 +1379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestTaxiPark">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -1343,6 +1414,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestTaxiPark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taxi_Park-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taxipark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="taxipark.TestTaxiPark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTaxiPark.testFaithfulPassengersC1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taxi_Park-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taxipark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="taxipark.TestTaxiPark" />
+      <option name="METHOD_NAME" value="testFaithfulPassengersC1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTaxiPark.testParetoPrincipleSucceedsC1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taxi_Park-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taxipark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="taxipark.TestTaxiPark" />
+      <option name="METHOD_NAME" value="testParetoPrincipleSucceedsC1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTaxiPark.testSmartPassengersC1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taxi_Park-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="taxipark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="taxipark.TestTaxiPark" />
+      <option name="METHOD_NAME" value="testSmartPassengersC1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -1363,8 +1512,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.TestNiceStrings" />
+      <item itemvalue="JUnit.TestTaxiPark" />
+      <item itemvalue="JUnit.TestTaxiPark.testFaithfulPassengersC1" />
+      <item itemvalue="JUnit.TestTaxiPark.testSmartPassengersC1" />
+      <item itemvalue="JUnit.TestTaxiPark.testParetoPrincipleSucceedsC1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestTaxiPark" />
+        <item itemvalue="JUnit.TestTaxiPark.testParetoPrincipleSucceedsC1" />
+        <item itemvalue="JUnit.TestTaxiPark.testSmartPassengersC1" />
+        <item itemvalue="JUnit.TestTaxiPark.testFaithfulPassengersC1" />
         <item itemvalue="JUnit.TestNiceStrings" />
       </list>
     </recent_temporary>
@@ -1376,32 +1536,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542450204498</updated>
-      <workItem from="1542450207422" duration="2650000" />
+      <workItem from="1542450207422" duration="15593000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNiceStrings - 2018.11.17 at 11h 51m 48s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark_testSmartPassengersC1 - 2018.11.18 at 15h 09m 41s.xml">
+      <configuration name="TestTaxiPark.testSmartPassengersC1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNiceStrings - 2018.11.17 at 11h 59m 53s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark_testParetoPrincipleSucceedsC1 - 2018.11.18 at 15h 23m 01s.xml">
+      <configuration name="TestTaxiPark.testParetoPrincipleSucceedsC1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNiceStrings - 2018.11.17 at 12h 00m 10s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark_testParetoPrincipleSucceedsC1 - 2018.11.18 at 15h 26m 43s.xml">
+      <configuration name="TestTaxiPark.testParetoPrincipleSucceedsC1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNiceStrings - 2018.11.17 at 12h 04m 51s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 51m 07s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNiceStrings - 2018.11.17 at 12h 05m 00s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 51m 29s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestNiceStrings - 2018.11.17 at 12h 05m 31s.xml">
-      <configuration name="TestNiceStrings" configurationId="JUnit" />
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 51m 47s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 52m 06s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 52m 17s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 53m 07s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTaxiPark - 2018.11.18 at 15h 53m 15s.xml">
+      <configuration name="TestTaxiPark" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2650000" />
+    <option name="totallyTimeSpent" value="15593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -1414,23 +1586,23 @@
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="SBT Console" />
       <window_info anchor="bottom" id="Graph Database Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.47375327" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298292" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2562418" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31143233" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info active="true" anchor="right" id="Task Description" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Task Description" weight="0.3297568" />
       <window_info anchor="right" id="Graph Database" />
       <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Maven Projects" />
@@ -1458,17 +1630,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Nice String/Task/src/nicestring/NiceString.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="555">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Nice String/Task/test/TestNiceStrings.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="359">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nice String/Task/src/nicestring/NiceString.kt">
+    <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="360">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="540">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/2e8041d08283cbbb58ad131617486fc6449f6c85/kotlin-stdlib-1.2.71-sources.jar!/kotlin/Ranges.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.71/ff62b6a76e3200cac3d7df0859d7665fe6d54955/kotlin-stdlib-common-1.2.71-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="860" column="53" selection-start-line="860" selection-start-column="53" selection-end-line="860" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taxi Park/Task/test/TaxiParkTestUtil.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="300">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="2415">
+          <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="1307">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
