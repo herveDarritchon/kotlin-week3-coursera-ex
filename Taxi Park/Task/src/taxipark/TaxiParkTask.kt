@@ -40,10 +40,6 @@ fun TaxiPark.findFrequentPassengers(driver: Driver): Set<Passenger> {
  * Task #4. Find the passengers who had a discount for majority of their trips.
  */
 fun TaxiPark.findSmartPassengers(): Set<Passenger> {
-    val passengersByNbTrips = this.trips
-            .flatMap { it.passengers }
-            .groupingBy { it }
-            .eachCount()
     val passengersByDiscount = this.trips
             .filter { it.discount != null && it.discount > 0.0 }
             .flatMap { it.passengers }
@@ -60,11 +56,6 @@ fun TaxiPark.findSmartPassengers(): Set<Passenger> {
             .filter { it.value > (passengersByNoDiscount[it.key] ?: 0) }
             .map { it.key }
             .toSet()
-
-/*    return passengersByDiscount
-            .filter { it.value >= passengersByNbTrips[it.key]?.div(2) ?: 0 }
-            .map { it.key }
-            .toSet()*/
 }
 
 /*

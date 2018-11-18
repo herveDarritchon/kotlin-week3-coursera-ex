@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d69db1-a50a-451b-a9c9-d29cefe8ce8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiPark.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi Park/Task/test/TestTaxiPark.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,12 +53,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="4008" />
+          <entry key="kt" value="4011" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="4008" />
+          <entry key="Kotlin" value="4011" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +70,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt">
               <provider selected="true" editor-type-id="StudyEditor">
-                <state relative-caret-position="1307">
-                  <caret line="95" selection-start-line="95" selection-end-line="95" />
+                <state relative-caret-position="945">
+                  <caret line="58" selection-start-line="58" selection-end-line="58" />
                 </state>
               </provider>
             </entry>
@@ -1536,7 +1525,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542450204498</updated>
-      <workItem from="1542450207422" duration="15593000" />
+      <workItem from="1542450207422" duration="15909000" />
     </task>
     <servers />
   </component>
@@ -1573,10 +1562,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15593000" />
+    <option name="totallyTimeSpent" value="15909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -1586,7 +1576,7 @@
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="SBT Console" />
       <window_info anchor="bottom" id="Graph Database Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.47375327" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.20341207" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3298292" />
@@ -1681,8 +1671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Taxi Park/Task/src/taxipark/TaxiParkTask.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="1307">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="945">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
